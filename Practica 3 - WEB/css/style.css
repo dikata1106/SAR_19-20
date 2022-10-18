@@ -1,0 +1,119 @@
+ body {
+	background-color : #F4F9FF;
+	margin : 0px;
+}
+ head {
+	background-color : #E5F9FF;
+}
+#logo {
+	width : 100px;
+	height : 100px;
+	padding : 50 px;
+	float : left;
+	padding-left : 60px;
+}
+.main {
+	background-color : #E5F9FF;
+	float : top;
+}
+#FreeImages {
+	text-align : center;
+	font-family : Comic Sans MS;
+	color : #6C0455;
+	font-size : 3em;
+	float : top;
+
+}
+#descripcion {
+	text-align : justify;
+	font-family : Comic Sans MS;
+	padding-left : 10%;
+	padding-right : 10%;
+	font-size : 1.2em;
+}
+a:link{
+  text-decoration : none;
+  color : white;
+  background-color : #6C0455;
+}
+a:visited {
+  text-decoration : none;
+  color : white;
+  background-color : #6C0455;
+}
+a:hover {
+  text-decoration : none;
+  color : #6C0455;
+  background-color : #E5F9FF;
+}
+li {
+  display : block;
+  float : left;
+  margin : 1px;
+  width : 33%;
+  
+}
+#menu{
+	margin : 0px;
+	padding : 0px;
+}
+#ULmenu {
+  list-style-type : none;
+  margin : 0px;
+  margin-left : 10px;
+  padding : 0px;
+}
+
+a {
+  display : block;
+  float : left;
+  font-family : comic sans ms;
+  height : 30px;
+  width : 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+ul li {
+  text-align: center;
+}
+td, table {
+  border: solid;
+  border-collapse: collapse;
+  color: #6C0455;
+  text-align: center;
+  font-family : Comic Sans MS;
+}
+
+table{
+  width : 50%;
+  margin-left : 25%;
+  margin-right : 25%;
+}
+
+img{
+  margin : 25px;
+}
+
+form{
+  text-align : center;
+}
+p , input{
+  font-family : Comic Sans MS;
+}
+
+input{
+  width : 400px;
+  margin-left : 5px;
+  margin-right : 5px;
+}
+
+h4 {
+  text-decoration : underline;
+  text-align : center;
+  font-family : Comic Sans MS;
+}
+tr:hover {
+  background-color: #E5F9FF;
+}
